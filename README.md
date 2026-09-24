@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi There :sunglasses:
 
-<!--
-**BrunoFaria010/BrunoFaria010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Bruno Faria, Sou um programador Full Stack, Criando e aprendendo a parte visual e os menus com os quais o usuário interage no navegador ou aplicativo, criando projetos com :rocket::
+<br>
+<br>
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JAVASCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
